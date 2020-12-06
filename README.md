@@ -1,33 +1,17 @@
-###👋
+#👋
 
 Hi, my name is Erin and I'm currently a Tech. PM at Indeed.com. 
 
-- 🔭 I’m currently working on conversational automation
-- 🌱 I’m currently learning Machine Learning (MSc. in A.I.)
-- 📫 Follow me on <a href=https://twitter.com/erinkhoo>Twitter</a>
-- ⚡ Fun fact:{the following is written by GPT-3} {...}
+- working on people analytics automation
+- studying Machine Learning (MSc. in A.I.)
+- follow me on <a href=https://twitter.com/erinkhoo>Twitter</a>
 
-In the following passage, GPT-3 writes about his outlook on leadership.
+**Experience:**
 
-###👋
+- A decade in People Analytics
+- Growth marketing
+- Product development
 
-🏪{My name is GPT-3. I’m currently a CTO at Indeed.}
-- 🌱 I’m {defined as a machine learning specialist} {...}
-- 🏫 Follow me on {Twitter - <a href="https://twitter.com/gpt3">@gpt3</a>}
-- ⚡ Fun fact: {the following is written by Erin} {...}
+**Curious About:**
 
-The robot has been around for a long time. It dates back to 1956 when the term was first coined. The very first example was A.L.I.C.E., created in 1966 at the Massachusetts Institute of Technology (MIT). She was tasked with holding a two-way conversation with her creators, and to learn from her conversations.
-
-The next major breakthrough occurred twenty years later with Bob, which was developed in 1986 at Carnegie Mellon University by a team led by Linda Breazeal. Bob could be regarded as the first conscious humanlike robot that exhibited strong evidence for social intelligence, face recognition and more than 40 basic emotions. She could also express her feelings, desires and intentions through facial expressions and simple vocalizations reflecting mental states; she would express happiness through a smile and sadness through a frown. Her face had 50 degrees of freedom and her mouth moved instantly when she spoke, a technological achievement at the time. Her construction was for research purposes only, as programmers hoped to discover how to create robots capable of the sophisticated facial expressions required for social interactions with humans. This would help create machines that could improve healthcare and education, language technology and more. Better yet, the work could be useful for robots that assist people at their homes or working side by side with them in offices.
-
-In 1991, NASA teamed up with General Motors and Carnegie Mellon University (CMU) researchers who built autonomous vehicles, electronic parts tester machines, computerized checkers and Space Station material handlers. Also in 1991, chess grandmaster Garry Kasparov played against Deep Thought (an IBM chess computer), and defeated it. The computer was able to be programmed to play chess and to search for moves millions of times faster than a human could. This is the first time when a computer beat a human being at chess, an activity that was widely considered to require human-level intelligence until this day. At the advent of the twenty-first century, IBM’s Deep Blue beat Kasparov at chess. Deep Blue used two custom purpose chips that could evaluate 200 million positions per second (computing speed equivalent of 64 gigabytes).
-
-In 2016, the winner of the first annual robotics prize announced by Elon Musk was presented with US$250 000 for developing robotic technology in supply chain management. In 2017, Google’s AlphaGo program beat world-champion Lee Se-dol at Go (an ancient board game that is more complex than chess). AlphaGo has beaten some of the best human players in the world at this game requiring intuitive human-like judgment owing to its enormous number of possible moves. AlphaGo is now being used as an assistant in scientific research, notably in protein folding and other calculations that are too complicated for humans to work on computationally.
-
-In 2013, HAVEN (Home Assistant Virtual Engineer) was created by Lowe's Innovation Labs in collaboration with Lowe's retail stores which demonstrated how a home would look if you were able to see beyond what normal human eyes allow you to see. HAVEN is capable of visualizing your home's structure in 3D format and describing what it sees through voice feedback. Among other benefits, HAVEN allows you to customize elements such as paint colour and light fixtures before making a final decision on their purchase – allowing you to see your new look before committing to it. You can even scan your existing room through your iOS or Android app over a wireless network or use a traditional camera lens with augmented reality filtering to see your decorations virtually applied to your walls.
-
-In 2014, Google Translate provided simplified and traditional Chinese translations from images of text on signboards – meaning you can point your phone camera at any Chinese text, hold it steady and see what it says in English almost instantly. Even better, you can tap on any word for more detailed information including a definition. So if you are trying to order food but don’t read or speak Chinese, you can use Google Translate to communicate with the waiter – all without typing anything on your smartphone. The app can also translate written text when you photograph it with your phone or tablet’s camera – even if it is not Chinese! For example, if you are reading a Spanish newspaper or a restaurant menu in French, the app will translate everything perfectly from text seen with your camera viewfinder while leaving menus readable and undisturbed.
-
-In 2016, Microsoft began developing artificial intelligence so advanced that it surpasses human intelligence (AI). The firm explained then that although artificial intelligence research has been active for decades, it hit an inflection point in 2014 when AI became one of the most discussed topics within technology industries along with robotics and virtual reality. Google made significant strides forward in its pursuit of creating general AI back in 2012 when the company began using deep learning algorithms for its speech recognition technology which enabled computers to understand words spoken by humans as opposed to simply processing audio waveforms as they had done previously. These deep learning algorithms were crucial for teaching computers how to detect patterns and make accurate predictions about what words might come next based on what they heard earlier within sentences. By 2016, deep learning was responsible for allowing virtual assistants such as Siri and Cortana to accurately understand requests from users so well without any need for training or feedback from their end. The Google Now service will continue improving over time as it “learns” from its interaction history with users what’s useful information for them to see each time it displays results or prompts them with useful information before they realize they needed it.
-
-The overreliance on machine learning has resulted into several controversies related to its application and interpretations made by these systems.. "The possibilities of AI are both exciting and concerning", Facebook's Yann LeCun stated in 2016 while acknowledging concerns about biased data sets which might have excluded women from artificial face recognition software designed by Microsoft at the time.. He was further quoted saying "One thing I am fairly certain of though is that advances in AI will mean less jobs for lawyers than there are today." The discovery that systems such as AlphaZero are likely better than humans at chess has startled experts deeply concerned about AI's rapid advancement since AlphaZero achieved this feat after only four hours of self-learning time from raw data whereas it took machines decades longer than AlphaZero needed because prior machine learning approaches relied mostly on brute force mathematical models rather than deep neural networks.. Since 2014 artificial neural networks have been frequently applied for recognizing human emotions such as nodding heads (agreement), smiles alongside nodding or shaking heads (disagreement), frowning faces (anger), eyes
+- Creatorship (creating something out of nothing)
