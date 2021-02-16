@@ -11,9 +11,10 @@ Hi, my name is Erin and I'm currently a Tech. PM at Indeed.com.
 
 - A decade in People Analytics and HRTech
 - Growth marketing
-- Product development
+- New Product development
 
 **Curious About:**
 
 - Creatorship (creating something out of nothing)
 - Explainable AI (XAI)
+- Software & Wetware
