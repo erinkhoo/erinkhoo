@@ -6,7 +6,7 @@ Hi, my name is Erin and I'm currently a Tech. PM at Indeed.com.
 
 - working on conversational automation
 - growing startup teams
-- MSc. in A.I. in 2021
+- Completed MSc. in A.I. in 2022
 - follow me on <a href=https://twitter.com/erinkhoo>Twitter</a>
 
 **Experience:**
