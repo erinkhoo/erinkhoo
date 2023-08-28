@@ -1,6 +1,8 @@
 #🌃
 
-My name is Erin and I'm currently a Technical Product Leader at Indeed.com. 
+My name is Erin and I'm currently a Product Leader at **Workato**
+
+/// previously @ Indeed.com, National Digital Reseach Centre (NDRC)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinkhoo" alt="erinkhoo" /> </p>
 
@@ -8,10 +10,11 @@ My name is Erin and I'm currently a Technical Product Leader at Indeed.com.
 - growing startup teams 🍕🍕
 - MSc in Artificial Intelligence
 - BSc in Bio. Anthropology
-- follow me on <a href=https://twitter.com/erinkhoo>Twitter</a>
+- follow me on <a href=https://x.com/erinkhoo>X/Twitter</a>
 
 **Experience:**
 
+- Cognitive Automation w/ Software
 - A decade in People Analytics and HRTech
 - Growth marketing | SaaS
 - New Product development | Product Development
@@ -20,4 +23,4 @@ My name is Erin and I'm currently a Technical Product Leader at Indeed.com.
 
 - Creatorship (creating something out of nothing)
 - Explainable AI (XAI)
-- Software & Wetware
+- Longevity
