@@ -6,7 +6,7 @@ My name is Erin and I'm currently a Product Leader at **Workato**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinkhoo" alt="erinkhoo" /> </p>
 
-- working on conversational automation (GPT | ChatGPT | LLMs)
+- working on cognitive automation (GPT | ChatGPT | LLMs | NLP)
 - growing startup teams 🍕🍕
 - MSc in Artificial Intelligence
 - BSc in Bio. Anthropology
@@ -17,7 +17,7 @@ My name is Erin and I'm currently a Product Leader at **Workato**
 - Cognitive Automation w/ Software
 - A decade in People Analytics and HRTech
 - Growth marketing | SaaS
-- New Product development | Product Development
+- New Product development | AI Product Development
 
 **Curious About:**
 
