@@ -1,8 +1,8 @@
 #🌃
 
-My name is Erin and I'm currently a Product Leader at **Workato**
+My name is Erin and I'm currently an AI Product Developer
 
-/// previously @ Indeed.com, National Digital Reseach Centre (NDRC)
+/// previously @ Workato, Indeed.com, National Digital Reseach Centre (NDRC)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinkhoo" alt="erinkhoo" /> </p>
 
