@@ -1,12 +1,14 @@
 #🌃
 
-My name is Erin and I'm currently an AI Product Developer
+My name is Erin and I'm currently an Applied AI Researcher
 
+/// currently @ Gartner
 /// previously @ Workato, Indeed.com, National Digital Reseach Centre (NDRC)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinkhoo" alt="erinkhoo" /> </p>
 
-- working on cognitive automation (Agents @ Work | GPT | ChatGPT | LLMs | NLP)
+- researching exponential | esoteric technology
+- worked on cognitive automation (Agents @ Work | LLMs | Workflow AI)
 - growing startup teams 🍕🍕
 - MSc in Artificial Intelligence
 - BSc in Bio. Anthropology
@@ -14,6 +16,7 @@ My name is Erin and I'm currently an AI Product Developer
 
 **Experience:**
 
+- Applied AI Research
 - Cognitive Automation w/ Software
 - A decade in People Analytics and HRTech
 - Growth marketing | SaaS
